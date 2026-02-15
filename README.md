@@ -1,8 +1,8 @@
-Bookmark application
+<h2>Bookmark application</h2>
 
 Application for storing all your bookmarks for free and access it whenever you want
 
-Tech stack used -> Next JS, tailwindCSS, supabase
+<h3>Tech stack used -> Next JS, tailwindCSS, supabase</h3>
 
 Problem's faced while building the application 
 -> The main problem which I faced was for having updates in real time
